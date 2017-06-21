@@ -1,0 +1,27 @@
+body {
+    background: rgba(0, 196, 255, 0.6);
+    font-family: 'Verdana', serif;
+    text-align: center;
+    color: rgb(255, 186, 186);
+}
+
+header, .box {
+    text-shadow: 2px 2px 3px #000;
+    padding: 50px;
+}
+
+.box {
+    min-height: 300px;
+}
+
+.author {
+    margin-top: 70px;
+    font-family: cursive;
+}
+
+.btn {
+    display: block;
+    margin: 0 auto 30px;
+}
+
+

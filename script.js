@@ -30,6 +30,7 @@ $(document).ready(function () {
         }
     }
     
+    getQuote();
     $('.trigger').click(function () {
         getQuote();
     });
